@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:9d0006,35:d65d0e,70:fe8019,100:fabd2f&height=200&section=header&text=Aadithya%20Anand&fontSize=48&fontColor=fbf1c7&animation=fadeIn&fontAlignY=35&desc=AI%20Agents%20%C2%B7%20LLMs%20%C2%B7%20Workflow%20Automation&descSize=18&descAlignY=55" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:013220,40:0f9b0f,100:39ff14&height=200&section=header&text=Aadithya%20Anand&fontSize=48&fontColor=eaffea&animation=fadeIn&fontAlignY=35&desc=AI%20Agents%20%C2%B7%20LLMs%20%C2%B7%20Workflow%20Automation&descSize=18&descAlignY=55" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=2800&pause=800&color=FABD2F&center=true&vCenter=true&width=620&lines=AI+%26+Data+Science+Student+%F0%9F%8E%93;Building+AI+Agents+with+LangChain+%F0%9F%A6%9C;Automating+everything+with+n8n+%E2%9A%A1;Turning+LLMs+into+real+products+%F0%9F%9A%80" alt="Typing animation"/>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=2800&pause=800&color=00FF41&center=true&vCenter=true&width=620&lines=AI+%26+Data+Science+Student+%F0%9F%8E%93;Building+AI+Agents+with+LangChain+%F0%9F%A6%9C;Automating+everything+with+n8n+%E2%9A%A1;Turning+LLMs+into+real+products+%F0%9F%9A%80" alt="Typing animation"/>
 
-<img src="https://komarev.com/ghpvc/?username=Aadithya-Anand&style=for-the-badge&color=fe8019&label=PROFILE+VIEWS" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=Aadithya-Anand&style=for-the-badge&color=00b300&label=PROFILE+VIEWS" alt="Profile views"/>
 
 </div>
 
@@ -39,16 +39,16 @@ AI & Data Science undergraduate at **Jeppiaar Engineering College**, building at
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Aadithya-Anand&show_icons=true&theme=gruvbox&hide_border=true&bg_color=282828&rank_icon=github" height="170" alt="GitHub stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aadithya-Anand&layout=compact&theme=gruvbox&hide_border=true&bg_color=282828" height="170" alt="Top languages"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Aadithya-Anand&show_icons=true&theme=merko&hide_border=true&bg_color=0a0f0b&rank_icon=github" height="170" alt="GitHub stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aadithya-Anand&layout=compact&theme=merko&hide_border=true&bg_color=0a0f0b" height="170" alt="Top languages"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com/?user=Aadithya-Anand&theme=gruvbox&hide_border=true&background=282828" alt="GitHub streak"/>
+<img src="https://streak-stats.demolab.com/?user=Aadithya-Anand&hide_border=true&background=0a0f0b&ring=00ff41&fire=39ff14&currStreakNum=eaffea&sideNums=eaffea&currStreakLabel=00ff41&sideLabels=00ff41&dates=7a9a7a" alt="GitHub streak"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aadithya-Anand&theme=gruvbox&hide_border=true&bg_color=282828&color=fabd2f&line=fe8019&point=fbf1c7&area=true&area_color=d65d0e" width="95%" alt="Contribution activity graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aadithya-Anand&hide_border=true&bg_color=0a0f0b&color=00ff41&line=0f9b0f&point=eaffea&area=true&area_color=0f9b0f" width="95%" alt="Contribution activity graph"/>
 
 </div>
 
@@ -66,6 +66,6 @@ AI & Data Science undergraduate at **Jeppiaar Engineering College**, building at
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:9d0006,35:d65d0e,70:fe8019,100:fabd2f&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:013220,40:0f9b0f,100:39ff14&height=120&section=footer" width="100%"/>
 
 </div>
